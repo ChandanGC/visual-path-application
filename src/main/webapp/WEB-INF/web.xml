@@ -24,7 +24,7 @@
   </servlet>
   <servlet-mapping>
     <servlet-name>dispatcher</servlet-name>
-    <url-pattern>http://15.206.72.189:8080/vprofile-v2/</url-pattern>
+    <url-pattern>/</url-pattern>
   </servlet-mapping>
   <listener>
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
